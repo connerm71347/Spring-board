@@ -1,2 +1,2 @@
-# Spring-board
+# GitAdventure
 Spring board projects
